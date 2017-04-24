@@ -1,0 +1,23 @@
+commit 7b4689bcd18f27cc1798cb56fdc4e646787515e5
+Author: nab0310 <nabehrens@sbcglobal.net>
+Date:   Tue Apr 11 15:53:25 2017 -0500
+
+    Got all of the io functions done, I think ive finished!
+
+commit db6d9cf108f5f278a882a94704c737f8da2ef461
+Author: nab0310 <nabehrens@sbcglobal.net>
+Date:   Tue Apr 11 12:25:18 2017 -0500
+
+    Added logic for objects in pc class, am writing the io methods for them now
+
+commit d15eea50e4b00b89c9d5fb91a5469ab87535a442
+Author: nab0310 <nabehrens@sbcglobal.net>
+Date:   Sun Apr 9 11:38:47 2017 -0500
+
+    Combat works, haven't started on picking up objects
+
+commit d536657d6cb8930aa6f54078428e838a72167d07
+Author: nab0310 <nabehrens@sbcglobal.net>
+Date:   Fri Apr 7 15:21:34 2017 -0500
+
+    initial commit, with solution for 1.08

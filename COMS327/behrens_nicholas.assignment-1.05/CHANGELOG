@@ -1,0 +1,23 @@
+commit 39ac48a6cfab3104d93ad05debec3418d95db242
+Author: nab0310 <nabehrens@sbcglobal.net>
+Date:   Tue Mar 7 13:08:14 2017 -0600
+
+    Fixed bug where you needed to press a key on start
+
+commit 5c34237909a82866f743bae1ba5979ffc38a2e1a
+Author: nab0310 <nabehrens@sbcglobal.net>
+Date:   Tue Mar 7 13:03:02 2017 -0600
+
+    Made look mode move less
+
+commit 8098ac8f41618dcd0a6f0e4a2c50daccfac10d77
+Author: nab0310 <nabehrens@sbcglobal.net>
+Date:   Mon Mar 6 14:59:48 2017 -0600
+
+    Put stairs under player and in the same room as him, make more random stairs?
+
+commit 41b4781ed8d0ae8915c9d17222b747a59614a5fa
+Author: nab0310 <nabehrens@sbcglobal.net>
+Date:   Mon Mar 6 01:13:55 2017 -0600
+
+    Initial commit and worked out character moving, got moving and sort of the look mode implemented?

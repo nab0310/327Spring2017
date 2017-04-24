@@ -1,0 +1,311 @@
+commit 46589e0f2fe373058867d81ea2370d972fe557dd
+Author: nab0310 <nabehrens@sbcglobal.net>
+Date:   Tue Jan 17 20:16:09 2017 -0600
+
+    Added clean and make to make file, removed binaraies and ready to submit
+
+commit dd51dde8e1718776a24ad37694b4f7d130ce8c23
+Author: nab0310 <nabehrens@sbcglobal.net>
+Date:   Fri Jan 13 16:10:57 2017 -0600
+
+    Made make file
+
+commit 7859a84a7a00a1545db5634d51030ff7ffb3e15e
+Author: nab0310 <nabehrens@sbcglobal.net>
+Date:   Fri Jan 13 14:38:26 2017 -0600
+
+    Changing comments
+
+commit 4a7459db398ef5b86eef8437adcdcedb98270765
+Author: Nick Behrens <nabehrens@sbcglobal.net>
+Date:   Thu Jan 12 10:36:48 2017 -0600
+
+    Removing manual start for init array
+
+commit 8f31d8e4d61ce533ede63ab888bf7ff7a11f741f
+Author: nab0310 <nabehrens@sbcglobal.net>
+Date:   Wed Jan 11 16:26:05 2017 -0600
+
+    Switched x and y values of array for passed in values, in an attempt to make it work
+
+commit 1327f5fe5e611134354f11e8f1012a8f98f17a8c
+Author: nab0310 <nabehrens@sbcglobal.net>
+Date:   Tue Jan 10 14:30:08 2017 -0600
+
+    Fixed syntax error
+
+commit dc8f2051bcda2150386b5e0761a1be4e1daffb52
+Author: nab0310 <nabehrens@sbcglobal.net>
+Date:   Tue Jan 10 14:29:35 2017 -0600
+
+    Changed variable name
+
+commit a70eb4acd37f4c99ec38c168c95cf368935c0593
+Author: nab0310 <nabehrens@sbcglobal.net>
+Date:   Tue Jan 10 14:28:38 2017 -0600
+
+    Added time component
+
+commit c7052be5205c59a10f2d73601ae1533051848f40
+Author: nab0310 <nabehrens@sbcglobal.net>
+Date:   Tue Jan 10 14:22:49 2017 -0600
+
+    Changed incrementing of populate array loop to +=2
+
+commit 994fe17b599ecca79e9febc82f4f0cdfaab33b2d
+Author: nab0310 <nabehrens@sbcglobal.net>
+Date:   Tue Jan 10 14:21:11 2017 -0600
+
+    Comment for x and y val in populate
+
+commit 144e31c050de4feae97fb61f5814b0abca28e054
+Author: nab0310 <nabehrens@sbcglobal.net>
+Date:   Tue Jan 10 14:19:16 2017 -0600
+
+    Changing type passed into populate array
+
+commit 60da9a71e79047a35b24d11241c5bd924f0901bb
+Author: nab0310 <nabehrens@sbcglobal.net>
+Date:   Tue Jan 10 14:17:04 2017 -0600
+
+    Adding command line reading of args...Probably bugged.
+
+commit 82a561fdc35456f42539639f361f35777893a412
+Author: Nick Behrens <behrensn@iastate.edu>
+Date:   Tue Jan 10 12:12:05 2017 -0600
+
+    Made count recalucalte every time we have an edge case
+
+commit 6d710c9897e0936fedae387f92c8072b575e3b85
+Author: Nick Behrens <behrensn@iastate.edu>
+Date:   Tue Jan 10 11:40:43 2017 -0600
+
+    Changed the place where we change back h and j
+
+commit 7ebd03911f3f8239684bbbe1826ff17f77885d21
+Author: Nick Behrens <behrensn@iastate.edu>
+Date:   Tue Jan 10 11:39:30 2017 -0600
+
+    Create flying stuff turn
+
+commit 83b84c60f440d466036979fbae605a316766589f
+Author: Nick Behrens <behrensn@iastate.edu>
+Date:   Tue Jan 10 11:38:32 2017 -0600
+
+    Changed game of life logic.
+
+commit 27ba3d551b530312e7752b03f1ff3b6d6882e007
+Author: Nick Behrens <behrensn@iastate.edu>
+Date:   Tue Jan 10 11:33:42 2017 -0600
+
+    Changing starting values
+
+commit bf86a24a889b3e585834aac728587d0ec809e3b8
+Author: Nick Behrens <behrensn@iastate.edu>
+Date:   Tue Jan 10 11:24:59 2017 -0600
+
+    Added changing wrapping back to after logic
+
+commit c098046bf172cb6ab7573858b3f92ed1dca96953
+Author: Nick Behrens <behrensn@iastate.edu>
+Date:   Tue Jan 10 11:23:11 2017 -0600
+
+    Glider from given example
+
+commit 5dae96ed0e55863643b384c4c8421c168b72d09b
+Author: Nick Behrens <behrensn@iastate.edu>
+Date:   Tue Jan 10 11:19:09 2017 -0600
+
+    Glider problems
+
+commit 031e92f2f5b6b45a4083b7766a17491c5ed134e8
+Author: Nick Behrens <behrensn@iastate.edu>
+Date:   Tue Jan 10 11:18:01 2017 -0600
+
+    printed array before running life the first time
+
+commit 307bfdc66b8d64dd7d625a85885ed0db221c1150
+Author: Nick Behrens <behrensn@iastate.edu>
+Date:   Tue Jan 10 11:16:35 2017 -0600
+
+    createLightweightSpaceship pattern
+
+commit 23f671ec4904a0c8356831fdee972c797564fb76
+Author: Nick Behrens <behrensn@iastate.edu>
+Date:   Tue Jan 10 11:15:36 2017 -0600
+
+    Create Glider pattern
+
+commit 20c22a5683ea86daa63db4c34530d7e6e417a37f
+Author: Nick Behrens <behrensn@iastate.edu>
+Date:   Tue Jan 10 11:12:29 2017 -0600
+
+    createLightweightSpaceship pattern
+
+commit 2d3b6f66185601aa32501aea2fb13b0dd996e368
+Author: Nick Behrens <behrensn@iastate.edu>
+Date:   Tue Jan 10 11:08:20 2017 -0600
+
+    Creating repeating line pattern
+
+commit 039e456ec5842408a8f330931abb82b5dd0dc723
+Author: Nick Behrens <behrensn@iastate.edu>
+Date:   Tue Jan 10 11:02:58 2017 -0600
+
+    Fixing rules to check if cells are alive
+
+commit 027c269774b353b06f00470f130579b888f88d63
+Author: Nick Behrens <behrensn@iastate.edu>
+Date:   Tue Jan 10 11:00:43 2017 -0600
+
+    Removing print statements
+
+commit 4cdee2780dd83e006266a38011e0cd1ea0a4bbd3
+Author: Nick Behrens <behrensn@iastate.edu>
+Date:   Tue Jan 10 10:59:05 2017 -0600
+
+    Adding else if to checking of bounds
+
+commit 2e5af043f38b725a6fd2f15a24cc093472681efa
+Author: Nick Behrens <behrensn@iastate.edu>
+Date:   Tue Jan 10 10:53:01 2017 -0600
+
+    Adding debug statement for adding
+
+commit 9d4cce64fdca4e64a9f846c08aa173d6e11e366d
+Author: nab0310 <nabehrens@sbcglobal.net>
+Date:   Tue Jan 10 10:50:38 2017 -0600
+
+    some issues with the +1 functions for the life function
+
+commit c997084beaddd4ca21eeca199087cad9bd4bbf8c
+Author: Nick Behrens <behrensn@iastate.edu>
+Date:   Tue Jan 10 10:37:55 2017 -0600
+
+    Added game of life logic, probably bugged.....
+
+commit 21580465dedced374f7caaa041aa78eb7d12e4a5
+Author: nab0310 <nabehrens@sbcglobal.net>
+Date:   Tue Jan 10 10:13:28 2017 -0600
+
+    Fixing compile errors
+
+commit a567936e371b24e68449d2ebce5aa3bff98d5080
+Author: Nick Behrens <behrensn@iastate.edu>
+Date:   Tue Jan 10 10:10:46 2017 -0600
+
+    moving function createFlyingStuff
+
+commit 73c579c46c587794606c8e8124dbe38a4efc347f
+Author: Nick Behrens <behrensn@iastate.edu>
+Date:   Tue Jan 10 10:06:23 2017 -0600
+
+    Creating simple function for initializing by hand and put into a loop with usleep(83333)
+
+commit 40f0136e462fc8fa1a77e9a2046a5c1cea8797be
+Author: Nick Behrens <behrensn@iastate.edu>
+Date:   Tue Jan 10 09:57:29 2017 -0600
+
+    Moving print array function out of main
+
+commit 2897087a5dfb59aecd2c5955b77737c6c2bfe35a
+Author: Nick Behrens <behrensn@iastate.edu>
+Date:   Tue Jan 10 09:54:57 2017 -0600
+
+    Moving init array to another function
+
+commit bd1a710c714f6d2ee26c4378d96c5ddc24e9f328
+Author: Nick Behrens <behrensn@iastate.edu>
+Date:   Tue Jan 10 09:48:53 2017 -0600
+
+    Simple print array all within main
+
+commit 580f24bf52d859389553d374e9647cb704129d51
+Author: nab0310 <nabehrens@sbcglobal.net>
+Date:   Mon Jan 9 19:16:20 2017 -0600
+
+    hello there arrays suck
+
+commit fe3ba4327b37861b619ae8e93f5fdd6575b9f94b
+Author: nab0310 <nabehrens@sbcglobal.net>
+Date:   Mon Jan 9 19:13:56 2017 -0600
+
+    ayyyyyyy arrays suck
+
+commit 25633fb1e48597f3183e2334747e3b891ee046da
+Author: nab0310 <nabehrens@sbcglobal.net>
+Date:   Mon Jan 9 19:06:23 2017 -0600
+
+    Changed segemetation fault?
+
+commit 2484cd5ce1402f52c4b5a730c03059a50af1f8a1
+Author: nab0310 <nabehrens@sbcglobal.net>
+Date:   Mon Jan 9 19:04:36 2017 -0600
+
+    Added int to method args
+
+commit dc18071012b0bd77764b48f69e769c5ccac01107
+Author: nab0310 <nabehrens@sbcglobal.net>
+Date:   Mon Jan 9 19:03:25 2017 -0600
+
+    Moved array into main()
+
+commit f6928be76e1a2a92288602c12fc360c1c839ce4e
+Author: nab0310 <nabehrens@sbcglobal.net>
+Date:   Mon Jan 9 19:00:51 2017 -0600
+
+    Fix array stuff
+
+commit 98b7f4b7e69bee20218424d2daaf4a4c5d05329b
+Author: nab0310 <nabehrens@sbcglobal.net>
+Date:   Mon Jan 9 18:58:45 2017 -0600
+
+    Print an array with just - as stuff
+
+commit d7ba7b1bb897c62170a06edb75a0fe4ed490ca2c
+Author: nab0310 <nabehrens@sbcglobal.net>
+Date:   Mon Jan 9 18:52:41 2017 -0600
+
+    Fixed printing variables
+
+commit 75f26e2265ecfd1655acc7a8c1b64673506f0f43
+Author: nab0310 <nabehrens@sbcglobal.net>
+Date:   Mon Jan 9 18:49:54 2017 -0600
+
+    Defined ints Length and Width
+
+commit 49fb1810dbd78b281266cca2c8d22375d5081e31
+Author: nab0310 <nabehrens@sbcglobal.net>
+Date:   Mon Jan 9 18:46:11 2017 -0600
+
+    Basic Hello World Program
+
+commit 27c8a9cf0ea84c443f2e11a82bfdc29b7d02af9f
+Author: nab0310 <nabehrens@sbcglobal.net>
+Date:   Mon Jan 9 18:42:14 2017 -0600
+
+    Online help
+
+commit 812719b4c294df740e34a63fa629af29c7f3ac5f
+Author: nab0310 <nabehrens@sbcglobal.net>
+Date:   Mon Jan 9 17:52:06 2017 -0600
+
+    Hello World Example
+
+commit ec506327978bb4607dbece020a9581becc2b6e98
+Author: nab0310 <nabehrens@sbcglobal.net>
+Date:   Mon Jan 9 17:43:40 2017 -0600
+
+    Basic Implementation found online
+
+commit 48ec09cf2119fd0e56b48ca18a0741c8bf36e410
+Author: nab0310 <nabehrens@sbcglobal.net>
+Date:   Mon Jan 9 17:39:02 2017 -0600
+
+    Hello world c file and compiled output from gcc
+
+commit 752b30a1cce2a5268e4f916e8bb642ff5457caf5
+Author: Nick Behrens <behrensn@iastate.edu>
+Date:   Mon Jan 9 17:20:20 2017 -0600
+
+    Create README.md

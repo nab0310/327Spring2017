@@ -1,0 +1,17 @@
+commit 4fdae8092b6679b7b72d7f63855abffdd7620fb3
+Author: nab0310 <nabehrens@sbcglobal.net>
+Date:   Tue Apr 4 16:10:07 2017 -0500
+
+    Color and objects work, monsters are random. Done?
+
+commit d1d296be4e4977d074f770b6135a43125032e502
+Author: nab0310 <nabehrens@sbcglobal.net>
+Date:   Mon Apr 3 18:16:52 2017 -0500
+
+    Added classes, am in the process of trying to make the io display the monsters/objects. Monsters may not be generating, Objects is getting a undefined reference error
+
+commit 3fa4b0b450ed27bef4f3480a3666971b03de26dd
+Author: nab0310 <nabehrens@sbcglobal.net>
+Date:   Mon Apr 3 14:11:22 2017 -0500
+
+    Initial commit and adding constructor for the dungeon objects

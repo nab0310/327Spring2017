@@ -1,0 +1,18 @@
+commit bd34ac42ca4108c1ebfd1c6731b7b226c0cb9c48
+Author: nab0310 <nabehrens@sbcglobal.net>
+Date:   Wed Mar 22 22:18:49 2017 -0500
+
+    Havent commited mucn, am having some issues with undefined ref to npc_next_pos
+
+commit ac52872dc6802bc6f7275b53e8b546ae9050a408
+Author: nab0310 <nabehrens@sbcglobal.net>
+Date:   Mon Mar 20 20:59:13 2017 -0500
+
+    Everything is not even close to working but I think this is how I am suppose to structure this??
+
+commit edef860e1a9a56a0511ef5bff100b913f37eb5b0
+Author: nab0310 <nabehrens@sbcglobal.net>
+Date:   Sun Mar 19 15:57:30 2017 -0500
+
+    Initial Commit
+nick@nick-ThinkPad-T

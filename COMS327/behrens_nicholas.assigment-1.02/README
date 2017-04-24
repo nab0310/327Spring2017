@@ -1,0 +1,16 @@
+# ComS327Assignment2
+
+My code for this assignment runs almost to spec.
+
+One thing that I couldn't get was how to make the file I load in have no limit to the amount of rooms there can be.
+This is currently gated by the MAX_ROOMS variable, defined at the top of the program.
+
+
+Another thing that happens, is related to loading and saving at the same time.
+At this time, if you load or save individually the functionality works and the load can be run multiple time and get the same value.
+The problem is when you load and save at the same time.
+What happens is when it is saved, the hardness array is shifted to the right by one.
+I am pretty sure this is a problem with how I am reading the bits.
+However, when I tried to do the right reading of the bits, I encountered other problems that were worse than this one.
+
+One other thing that you will need to do before running it is to place a file called "dungeon.rlg327" (without the quotes) in your home directory.

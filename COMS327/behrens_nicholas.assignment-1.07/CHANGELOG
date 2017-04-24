@@ -1,0 +1,35 @@
+commit 322837ab7a42f38048109aa2768d4eb4def5bddf
+Author: nab0310 <nabehrens@sbcglobal.net>
+Date:   Wed Mar 29 19:48:24 2017 -0500
+
+    Fixing the missing END token bug
+
+commit 3dfff6a740a22f1dacdc4b2f8ad2c73289d99dea
+Author: nab0310 <nabehrens@sbcglobal.net>
+Date:   Tue Mar 28 01:22:05 2017 -0500
+
+    Created flie opening in the home directory
+
+commit ba9a0866719e3cd8ca804f0585d15eb2c87a00c1
+Author: nab0310 <nabehrens@sbcglobal.net>
+Date:   Tue Mar 28 00:54:16 2017 -0500
+
+    File parser works and catches all errors that I can determine from the PDF at this time.
+
+commit 1bd4639e42e1f4e52b31ec625db5556e793196de
+Author: nab0310 <nabehrens@sbcglobal.net>
+Date:   Sun Mar 26 22:11:40 2017 -0500
+
+    Fixed all the casting issues and made a file to start looking into parsing the text files, may need stringstream object?
+
+commit 3cbb9dde896222938beec0c65e12b20b21551847
+Author: nab0310 <nabehrens@sbcglobal.net>
+Date:   Sun Mar 26 21:28:46 2017 -0500
+
+    Changed all the file extensions to cpp, having an error in calloc in heap.cpp
+
+commit af978d3d18fb8841b3ffb6b7ff7fdfc500e5d864
+Author: nab0310 <nabehrens@sbcglobal.net>
+Date:   Fri Mar 24 15:25:48 2017 -0500
+
+    Starting point for assignment 7

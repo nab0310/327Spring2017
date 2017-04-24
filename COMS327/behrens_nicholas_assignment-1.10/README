@@ -1,0 +1,12 @@
+I have implemented ranged combat and a poison spell.
+
+For the poison spell, you press p, interact with the arrow keys to place the poison,
+and press p again when you are satisfied with the placement. The poison takes away
+10 hp from whoever is standing on it every move cycle (code can be found in move.cpp at lines 123 and 328).
+The poison also does not decay over time, so caution must be used when applying it!
+
+For the ranged combat, you press r and select the position with the arrow keys,
+and then confirm the selection with r again. The code for this can be found in io.cpp,
+starting on line 1342. The weapon must be of the ranged type.
+
+If anything doesn't work, please let me know.

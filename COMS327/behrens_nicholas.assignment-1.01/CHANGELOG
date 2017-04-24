@@ -1,0 +1,53 @@
+commit a45e6e51874d2f8429dcf0cbd4d7199a2e5b8977
+Author: nab0310 <nabehrens@sbcglobal.net>
+Date:   Mon Jan 23 11:48:19 2017 -0600
+
+    Fixing problems with tunnel generation and making Makefile.
+
+commit 4f99b925f7d6820e89dfd9852b26c7726eb29926
+Author: nab0310 <nabehrens@sbcglobal.net>
+Date:   Sun Jan 22 18:08:31 2017 -0600
+
+    Fixed tunneling issue, it was an array sizing thing. Completely working with the simple case
+
+commit 5a8c56dfe417e710f4aa72057b8ea9a3f72989c3
+Author: nab0310 <nabehrens@sbcglobal.net>
+Date:   Sat Jan 21 21:12:50 2017 -0600
+
+    Tunnels are throwing a stack smashing error, rooms work!
+
+commit c0116c74bf34d15af23ebfffd9481314bfe92a01
+Author: nab0310 <nabehrens@sbcglobal.net>
+Date:   Sat Jan 21 15:42:55 2017 -0600
+
+    Working with tunnels and checking if overlapping, not working
+
+commit 94640c9aac14922709bd560c0cdbd5707f26c6c3
+Author: nab0310 <nabehrens@sbcglobal.net>
+Date:   Fri Jan 20 15:02:03 2017 -0600
+
+    Working fresh, havent gotten any seg faults, rooms work. Starting to look at tunnels
+
+commit 814cfb7246a7a97b5850f5a247f901d0e7efe9d1
+Author: nab0310 <nabehrens@sbcglobal.net>
+Date:   Fri Jan 20 01:41:24 2017 -0600
+
+    Running to segementation faults when going back to main from init dungeon
+
+commit 24c5c9f3a83f3d89e9f71b5a2ebbb5a21487feec
+Author: nab0310 <nabehrens@sbcglobal.net>
+Date:   Fri Jan 20 00:45:46 2017 -0600
+
+    Simple room generation may be done? starting printing to figure that out
+
+commit e6c8bff08e19a9537aefcd5f92c9f8b3cc03a204
+Author: nab0310 <nabehrens@sbcglobal.net>
+Date:   Fri Jan 20 00:23:42 2017 -0600
+
+    Inital work on initialization and creating basic rooms using rand()
+
+commit 805b5cfd38b3b754f9c2680c6d07f91ebf69b76f
+Author: Nick Behrens <behrensn@iastate.edu>
+Date:   Thu Jan 19 23:40:08 2017 -0600
+
+    Initial commit

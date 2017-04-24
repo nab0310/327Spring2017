@@ -1,0 +1,35 @@
+commit fa4b89ac35ddfc5191f1096dfbc3287e1895caeb
+Author: nab0310 <nabehrens@sbcglobal.net>
+Date:   Wed Apr 19 15:15:39 2017 -0500
+
+    Finishing touches
+
+commit dcd962e7fc516c0fc9a1a72c85ff33da808494f4
+Author: nab0310 <nabehrens@sbcglobal.net>
+Date:   Tue Apr 18 17:34:01 2017 -0500
+
+    Got poison to work, removes health from monsters and immediately kills the PC
+
+commit e3c7f016d32e1325653d872a9014e9fcd211d2e5
+Author: nab0310 <nabehrens@sbcglobal.net>
+Date:   Tue Apr 18 16:41:06 2017 -0500
+
+    You can select an area for the poison ball, but need to add the actual display status to the floor, add it as an terrain type?
+
+commit 102430b092c99be5f6c59acdffa12151268ac1a6
+Author: nab0310 <nabehrens@sbcglobal.net>
+Date:   Tue Apr 18 15:27:55 2017 -0500
+
+    Got ranged combat working
+
+commit 90da5c4bfdecd2dc90994de96fe6ed33741c76db
+Author: nab0310 <nabehrens@sbcglobal.net>
+Date:   Sun Apr 16 12:28:40 2017 -0500
+
+    started with ranged combat, want to flash the square you selected, isnt working
+
+commit 69691b53113c93004fdbe2b520e09f335b52230b
+Author: nab0310 <nabehrens@sbcglobal.net>
+Date:   Sun Apr 16 11:15:10 2017 -0500
+
+    Initial commit, solution for assignment 9

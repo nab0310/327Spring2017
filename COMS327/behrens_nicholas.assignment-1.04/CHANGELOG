@@ -1,0 +1,71 @@
+commit fc1a855dd1b8b12a102251df28a82a91f448c6c2
+Author: nab0310 <nabehrens@sbcglobal.net>
+Date:   Wed Feb 22 17:45:31 2017 -0600
+
+    Changing readme for submit
+
+commit 89b651bb279903c964865112e6d088101c7aa2b0
+Author: nab0310 <nabehrens@sbcglobal.net>
+Date:   Wed Feb 22 17:42:11 2017 -0600
+
+    adding back in random charasterics
+
+commit edb5470153f5114b3ad2f20977882f284a10fc75
+Author: nab0310 <nabehrens@sbcglobal.net>
+Date:   Wed Feb 22 17:41:12 2017 -0600
+
+    Got endgame sort of working
+
+commit 0c0eaf321cb960b468a4a140fb4070fba0c10692
+Author: nab0310 <nabehrens@sbcglobal.net>
+Date:   Wed Feb 22 17:02:26 2017 -0600
+
+    ReadMe and dungeon not really working, but close enough to spec that I want this as a reference point if I mess everything up
+
+commit 7fb82b9d71e845c55266f3d396cd13cc2d380ac7
+Author: nab0310 <nabehrens@sbcglobal.net>
+Date:   Wed Feb 22 12:55:04 2017 -0600
+
+    Reverted and removed the monster map, all of the characteristics mostly work. Still need to work on killing the player/monsters
+
+commit ae62d6ba99404e31423816b88795a4974a1879be
+Author: nab0310 <nabehrens@sbcglobal.net>
+Date:   Wed Feb 22 12:34:05 2017 -0600
+
+    Tried to start to implement a monster map, havent...Just broke everything
+
+commit b15e0359c4deed44239da031163042daa35ede07
+Author: nab0310 <nabehrens@sbcglobal.net>
+Date:   Tue Feb 21 16:06:51 2017 -0600
+
+    Sort of created all the monster movement, bugs are very everywhere.
+
+commit e7109788001b0d57708a4ec1ef219e48e57f020a
+Author: nab0310 <nabehrens@sbcglobal.net>
+Date:   Mon Feb 20 18:07:05 2017 -0600
+
+    Got random movement for the player and npc down, need to do the bulk of the npc movement
+
+    commit 49fa28cfc2cd23044c08a88a6fd630406b299f52
+    Author: nab0310 <nabehrens@sbcglobal.net>
+    Date:   Mon Feb 20 12:15:44 2017 -0600
+
+        Got Player movement, my way of making and storing monstar array may be wrong....
+
+    commit b0eac269dc16f7821bd1da88fbbfbfb63d6f1838
+    Author: nab0310 <nabehrens@sbcglobal.net>
+    Date:   Sun Feb 19 23:55:14 2017 -0600
+
+        Made good progress, until saw an answer online for an event struct and had trouble getting malloc and free to work.
+
+    commit c359bdf1f735257311198d16d7290b9943cb78ef
+    Author: nab0310 <nabehrens@sbcglobal.net>
+    Date:   Sun Feb 19 19:09:46 2017 -0600
+
+        Initial commit from posted solution
+
+    commit 67341dff82f1ea1ea64f155f823569ec5713de28
+    Author: Nick Behrens <behrensn@iastate.edu>
+    Date:   Sun Feb 19 19:05:57 2017 -0600
+
+        Initial commit

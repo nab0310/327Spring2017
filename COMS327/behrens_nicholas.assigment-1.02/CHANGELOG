@@ -1,0 +1,76 @@
+commit 0cf45a1878a893dd41907078d7b2b0e79db1ced4
+Author: nab0310 <nabehrens@sbcglobal.net>
+Date:   Wed Feb 1 20:07:45 2017 -0600
+
+    Moving ints out of for loops
+
+commit f1bf7c1f1da7308f0f005c2784d3fd8304970f6d
+Author: Nick Behrens <behrensn@iastate.edu>
+Date:   Wed Feb 1 17:23:44 2017 -0600
+
+    Changing the file name to dungeon from dungeon.rlg327
+
+commit af8746c366fa2561b1fb1a00eaa571565d51379d
+Author: Nick Behrens <behrensn@iastate.edu>
+Date:   Wed Feb 1 17:22:04 2017 -0600
+
+    Update and rename README.md to README
+
+commit a80296ab8ddf9d7eba41a632090732b9b0f2e6e2
+Author: nab0310 <nabehrens@sbcglobal.net>
+Date:   Wed Feb 1 17:18:31 2017 -0600
+
+    Changing vars to be declared on the outside of for loops
+
+commit 8809ce79a376d3ff3786d6c5bfc410b5aa6d58c2
+Author: nab0310 <nabehrens@sbcglobal.net>
+Date:   Tue Jan 31 16:31:26 2017 -0600
+
+    Trying to get the no limit to work.
+
+commit adcba7d656c6609e27274e1fdb9dcf9286622f73
+Author: nab0310 <nabehrens@sbcglobal.net>
+Date:   Tue Jan 31 15:59:22 2017 -0600
+
+    Working on making my load have no limit to the number of rooms, think about making the rooms for the dungeon a pointer, how do I do that without messing up all of the other code??
+
+commit e65c09ca6b9f90a907e93705cdc4bba4208f5cc1
+Author: nab0310 <nabehrens@sbcglobal.net>
+Date:   Tue Jan 31 11:13:59 2017 -0600
+
+    I got my reade to work, and now my write works: after some slight modifications to bounds
+    commit be48c01b93aa67f6da2da3dcf120409cef7ed4fe
+    Author: nab0310 <nabehrens@sbcglobal.net>
+    Date:   Mon Jan 30 15:04:28 2017 -0600
+
+        Worked on doing reads, got all the data but it doesnt work, moved on to writing and have been able to fprintf the string but havent been able to do any of the integet stuff
+
+    commit b712584cafcd899a2694988d782c783b21bccf3e
+    Author: nab0310 <nabehrens@sbcglobal.net>
+    Date:   Fri Jan 27 15:01:30 2017 -0600
+
+        Got all the data from the file, now I need to make it work with profs solution
+
+    commit 84e55f23f395d7021412572395a996ea1c89e7ac
+    Author: nab0310 <nabehrens@sbcglobal.net>
+    Date:   Thu Jan 26 13:05:46 2017 -0600
+
+        Using online solution for assignment 1, started to look through file. Stuck at getting the hardness into an array
+
+    commit 3a8b9daa29d9380d8da78d04ba151e02fb069644
+    Author: nab0310 <nabehrens@sbcglobal.net>
+    Date:   Mon Jan 23 12:41:27 2017 -0600
+
+        Created structures for loading and saving
+
+    commit 0d69a06eeff9a026004194600946ac038c26a72a
+    Author: nab0310 <nabehrens@sbcglobal.net>
+    Date:   Mon Jan 23 12:12:31 2017 -0600
+
+        Adding file from Assignment1
+
+    commit 60134636cd88610a25141c713617ac7fdfb3ef47
+    Author: Nick Behrens <behrensn@iastate.edu>
+    Date:   Mon Jan 23 12:10:21 2017 -0600
+
+        Initial commit
